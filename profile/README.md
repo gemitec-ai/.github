@@ -18,13 +18,13 @@
 
 <p align="center">
   <a href="https://rebecca-ai.net/">
-    <img src="https://img.shields.io/badge/Official_Portal-rebecca--ai.net-8b5cf6?style=for-the-badge&labelColor=07080c" alt="Official Portal" />
+    <img src="https://img.shields.io/badge/Official_Portal-rebecca--ai.net-8b5cf6?style=for-the-badge&labelColor=0e1017" alt="Official Portal" />
   </a>
   <a href="https://x.com/rebecca_ai_gal">
-    <img src="https://img.shields.io/badge/X_(Twitter)-@rebecca__ai__gal-07080c?style=for-the-badge&logo=x&logoColor=a78bfa" alt="X @rebecca_ai_gal" />
+    <img src="https://img.shields.io/badge/X-@rebecca__ai__gal-6d28d9?style=for-the-badge&labelColor=0e1017&logo=x&logoColor=ffffff" alt="X @rebecca_ai_gal" />
   </a>
   <a href="https://youtube.com/@rebecca-ai">
-    <img src="https://img.shields.io/badge/YouTube-@rebecca--ai-07080c?style=for-the-badge&logo=youtube&logoColor=ec4899" alt="YouTube @rebecca-ai" />
+    <img src="https://img.shields.io/badge/YouTube-@rebecca--ai-ec4899?style=for-the-badge&labelColor=0e1017&logo=youtube&logoColor=ffffff" alt="YouTube @rebecca-ai" />
   </a>
 </p>
 
